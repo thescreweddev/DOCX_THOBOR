@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"2e0b17a5d8a89a6d","type":"file","file":"Files/README.md","x":-480,"y":-400,"width":580,"height":700},
+		{"id":"0bd902587b636355","type":"text","text":"Operational Modes","x":-315,"y":480,"width":250,"height":60},
+		{"id":"688a78cffcbe7d46","type":"text","text":"TeleOP","x":-917,"y":740,"width":250,"height":60},
+		{"id":"64db01c68e653d78","type":"file","file":"Files/TeleOP FTC-SDK.md","x":-1269,"y":960,"width":955,"height":960},
+		{"id":"6cc5adffa5533de9","type":"text","text":"Autonom","x":200,"y":740,"width":250,"height":60},
+		{"id":"5509f2d06fe21212","type":"text","text":"TeleOP FTC-LIB","x":-2080,"y":960,"width":250,"height":60},
+		{"id":"befb71bfb80a0bc3","type":"file","file":"Files/AUTONOMIA.md","x":-190,"y":960,"width":1140,"height":1360},
+		{"id":"cb609462cc4f2403","type":"file","file":"Files/Ghid de instalare.md","x":280,"y":-250,"width":520,"height":400,"color":"1"},
+		{"id":"c78bfa17fda14718","type":"file","file":"Files/Resurse.md","x":920,"y":-270,"width":440,"height":440,"color":"1"},
+		{"id":"b6dbfc3ddb4f312d","type":"text","text":"Exemplu TeleOP FTC-LIB","x":-2080,"y":1520,"width":250,"height":60},
+		{"id":"81f93502cf7916b9","type":"text","text":"ROADRUNNER","x":5,"y":2866,"width":250,"height":60},
+		{"id":"8a9dabd72faf5e09","type":"file","file":"Files/RoadRunner.md","x":-329,"y":3120,"width":669,"height":706},
+		{"id":"fc48721862219c7a","type":"text","text":"PEDROPATHING","x":505,"y":2866,"width":250,"height":60},
+		{"id":"cbc77d93565e0dcd","type":"file","file":"Files/PedroPathing.md","x":430,"y":3120,"width":890,"height":760},
+		{"id":"cd7863216a108380","type":"text","text":"Alternatives","x":255,"y":3920,"width":250,"height":60},
+		{"id":"a685555258625be2","type":"file","file":"Files/Alternative.md","x":-110,"y":4040,"width":980,"height":1480},
+		{"id":"843b60e79c01f7fb","type":"text","text":"Resursele Thobor/DOCX veche / link uri github ","x":-1042,"y":-160,"width":250,"height":60},
+		{"id":"09685cd5b74a0f96","x":1480,"y":3120,"width":700,"height":760,"type":"file","file":"Files/Traiectorii PedroPathing.md"}
+	],
+	"edges":[
+		{"id":"5c73e389bb23d5f3","fromNode":"2e0b17a5d8a89a6d","fromSide":"right","toNode":"cb609462cc4f2403","toSide":"left"},
+		{"id":"4fe03914caeb6619","fromNode":"cb609462cc4f2403","fromSide":"right","toNode":"c78bfa17fda14718","toSide":"left"},
+		{"id":"071bb6cfcc7c3f59","fromNode":"2e0b17a5d8a89a6d","fromSide":"bottom","toNode":"0bd902587b636355","toSide":"top"},
+		{"id":"f337576b11e705d3","fromNode":"0bd902587b636355","fromSide":"bottom","toNode":"688a78cffcbe7d46","toSide":"top"},
+		{"id":"2d115e4f397d88e2","fromNode":"688a78cffcbe7d46","fromSide":"bottom","toNode":"64db01c68e653d78","toSide":"top"},
+		{"id":"1088e54bf45d1b7f","fromNode":"688a78cffcbe7d46","fromSide":"bottom","toNode":"5509f2d06fe21212","toSide":"top"},
+		{"id":"1eb471494ca10904","fromNode":"6cc5adffa5533de9","fromSide":"bottom","toNode":"befb71bfb80a0bc3","toSide":"top"},
+		{"id":"8693a1fd2a96a292","fromNode":"befb71bfb80a0bc3","fromSide":"bottom","toNode":"fc48721862219c7a","toSide":"top"},
+		{"id":"5b67c6dff1726e2e","fromNode":"befb71bfb80a0bc3","fromSide":"bottom","toNode":"81f93502cf7916b9","toSide":"top"},
+		{"id":"416411adeced874e","fromNode":"befb71bfb80a0bc3","fromSide":"bottom","toNode":"cd7863216a108380","toSide":"top"},
+		{"id":"aa836c81e455ed01","fromNode":"0bd902587b636355","fromSide":"bottom","toNode":"6cc5adffa5533de9","toSide":"top"},
+		{"id":"f48602c5ee921c25","fromNode":"81f93502cf7916b9","fromSide":"bottom","toNode":"8a9dabd72faf5e09","toSide":"top"},
+		{"id":"01557f23fd645af8","fromNode":"cd7863216a108380","fromSide":"bottom","toNode":"a685555258625be2","toSide":"top"},
+		{"id":"c6d5c2043f8a9e94","fromNode":"fc48721862219c7a","fromSide":"bottom","toNode":"cbc77d93565e0dcd","toSide":"top"},
+		{"id":"c8d2dacacf485618","fromNode":"cbc77d93565e0dcd","fromSide":"right","toNode":"09685cd5b74a0f96","toSide":"left"}
+	]
+}
