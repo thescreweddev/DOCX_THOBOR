@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "b979236471f1e473",
+    "type": "split",
+    "children": [
+      {
+        "id": "7078b944136bad8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b61dcf35af1842ed",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "DOCX_THOBOR/DOCX.canvas",
+                "viewState": {
+                  "x": 172.63309901330922,
+                  "y": 325.76515727521434,
+                  "zoom": -1.682876936384896
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "DOCX"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b98d54a297e9da4",
+    "type": "split",
+    "children": [
+      {
+        "id": "acbc02451da17a25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58162a2d517f9d44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "74ee77e34d77c204",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "62cdcf97eb410572",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4071c57672437a7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c5d786a79a12c45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd86b5846b3115d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DOCX_THOBOR/DOCX.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DOCX"
+            }
+          },
+          {
+            "id": "29315b142b4382e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DOCX_THOBOR/DOCX.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DOCX"
+            }
+          },
+          {
+            "id": "98f377cf3c8c99c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3b197ecc3daaf3f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DOCX_THOBOR/DOCX.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DOCX"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b61dcf35af1842ed",
+  "lastOpenFiles": [
+    "DOCX_THOBOR/TeleOP.md",
+    "DOCX_THOBOR/AUTONOMIA.md"
+  ]
+}
