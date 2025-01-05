@@ -24,9 +24,9 @@
 		{"id":"a4294084a1ae385a","type":"file","file":"DOCX_THOBOR/Files/FTCLIB TeleOP/Clasa DriveCommand.md","x":-4000,"y":4720,"width":1200,"height":480},
 		{"id":"5f1f850603356433","type":"file","file":"DOCX_THOBOR/Files/FTCLIB TeleOP/Clasa DriveSubsystem.md","x":-2560,"y":4720,"width":840,"height":480},
 		{"id":"133bd0c8ae306e5b","type":"file","file":"DOCX_THOBOR/Files/FTCLIB TeleOP/Clasa TeleOP.md","x":-1517,"y":4635,"width":951,"height":845},
-		{"id":"10d858506f572b4a","type":"file","file":"DOCX_THOBOR/Files/FTCLIB TeleOP/Final.md","x":-2340,"y":5840,"width":400,"height":420},
+		{"id":"10d858506f572b4a","type":"file","file":"DOCX_THOBOR/Files/FTCLIB TeleOP/Final.md","x":-2340,"y":5840,"width":740,"height":580},
 		{"id":"c78bfa17fda14718","type":"file","file":"DOCX_THOBOR/Files/Resurse.md","x":920,"y":-270,"width":440,"height":440,"color":"1"},
-		{"id":"2824a0657f83e0b8","type":"file","file":"DOCX_THOBOR/Files/Resurse Thobor.md","x":-1300,"y":-250,"width":560,"height":400,"color":"1"}
+		{"id":"2824a0657f83e0b8","type":"file","file":"DOCX_THOBOR/Files/Resurse Thobor.md","x":-1300,"y":-250,"width":560,"height":410,"color":"1"}
 	],
 	"edges":[
 		{"id":"5c73e389bb23d5f3","fromNode":"2e0b17a5d8a89a6d","fromSide":"right","toNode":"cb609462cc4f2403","toSide":"left"},

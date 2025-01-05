@@ -14,4 +14,4 @@
     - Aceasta permite reutilizarea și extinderea ușoară a codului.
 
 Aici o sa gasesti tot codul:
-
+https://github.com/thescreweddev/TeleOP.git

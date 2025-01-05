@@ -15,9 +15,9 @@
               "state": {
                 "file": "DOCX_THOBOR/DOCX.canvas",
                 "viewState": {
-                  "x": 103.05276502225115,
-                  "y": 2764.0387284631197,
-                  "zoom": -3.186135220297911
+                  "x": -109.07669660272823,
+                  "y": -15.926527461945767,
+                  "zoom": -0.7416908818172816
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -165,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "617cc25db36ae5a5",
+  "active": "58162a2d517f9d44",
   "lastOpenFiles": [
     "DOCX_THOBOR/Files/FTCLIB TeleOP/Final.md",
     "DOCX_THOBOR/Files/FTCLIB TeleOP/Clasa TeleOP.md",
