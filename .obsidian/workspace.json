@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7078b944136bad8f",
+        "id": "3d979b6ba4277b53",
         "type": "tabs",
         "children": [
           {
-            "id": "b61dcf35af1842ed",
+            "id": "617cc25db36ae5a5",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "DOCX_THOBOR/DOCX.canvas",
                 "viewState": {
-                  "x": 172.63309901330922,
-                  "y": 325.76515727521434,
-                  "zoom": -1.682876936384896
+                  "x": 103.05276502225115,
+                  "y": 2764.0387284631197,
+                  "zoom": -3.186135220297911
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -165,8 +165,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b61dcf35af1842ed",
+  "active": "617cc25db36ae5a5",
   "lastOpenFiles": [
+    "DOCX_THOBOR/Files/FTCLIB TeleOP/Final.md",
+    "DOCX_THOBOR/Files/FTCLIB TeleOP/Clasa TeleOP.md",
+    "DOCX_THOBOR/Files/FTCLIB TeleOP/TeleOp.png",
+    "DOCX_THOBOR/DOCX.canvas",
+    "DOCX_THOBOR/Files/FTCLIB TeleOP/Clasa DriveCommand.md",
+    "DOCX_THOBOR/Files/FTCLIB TeleOP/Clasa DriveSubsystem.md",
+    "DOCX_THOBOR/Files/FTCLIB TeleOP/EXEMPLU.md",
+    "DOCX_THOBOR/Files/FTCLIB TeleOP/DriveComand.png",
+    "DOCX_THOBOR/Files/FTCLIB TeleOP/DriveSubsystem.png",
+    "DOCX_THOBOR/Files/FTCLIB TeleOP",
+    "Pasted image 20250105203743.png",
+    "DOCX_THOBOR/Files/TeleOp cu FTCLib.md",
     "DOCX_THOBOR/TeleOP.md",
     "DOCX_THOBOR/AUTONOMIA.md"
   ]
